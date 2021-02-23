@@ -89,7 +89,7 @@ body {
     text-align:center;
     font-size:25px;
     transform:rotate(-90deg);
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("nycity_bg.jpg") center center;
+    background:transparent;
     color:#fff;
     position:fixed;
     left:0;
